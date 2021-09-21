@@ -1,6 +1,6 @@
-Name: Andrea Pietronave  
-Born: 11/09/1997  
-Nationatily: 🇮🇹IT  
+Name:         Andrea Pietronave  
+Born:         11/09/1997  
+Nationatily:  🇮🇹IT  
 
 Hello. I'm Andrea.  
 
