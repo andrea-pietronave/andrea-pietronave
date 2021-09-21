@@ -1,13 +1,10 @@
-Name: Andrea Pietronave
+Name: Andrea Pietronave  
+Born: 11/09/1997  
+Nationatily: 🇮🇹IT  
 
-Born: 11/09/1997
+Hello. I'm Andrea.  
 
-Nationatily: 🇮🇹IT
-
-
-Hello. I'm Andrea.
-
-I'm currently working with React and NodeJs.
-Always interested in learing new things.
+I'm currently working with React and NodeJs.  
+Always interested in learing new things.  
 
 You can reach me at [andrea.pietronave@outlook.it](andrea.pietronave@outlook.it)
