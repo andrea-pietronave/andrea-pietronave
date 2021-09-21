@@ -7,4 +7,4 @@ Hello. I'm Andrea.
 I'm currently working with React and NodeJs.  
 Always interested in learing new things.  
 
-You can reach me at [andrea.pietronave@outlook.it](andrea.pietronave@outlook.it)
+You can reach me at <andrea.pietronave@outlook.it>
