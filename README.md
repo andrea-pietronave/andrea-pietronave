@@ -4,7 +4,7 @@
 - 🇮🇹 IT
 - 📅 11/09/1997
 - ⚡ I’m currently working on [Experience Rating](https://github.com/andrea-pietronave/experience-rating-web)
-- 📚 I’m currently learning **React, Node.JS**
+- 📚 I’m currently learning **React, Node.JS, C#**
 - 🔍 Always interested in learning new things.
 
 <h3 align="left">Connect with me:</h3>
