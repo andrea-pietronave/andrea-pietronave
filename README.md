@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrea Pietronave</h1>
-<h3 align="center">A frontend developer</h3>
+
 
 - 🇮🇹 IT
 - 📅 11/09/1997
